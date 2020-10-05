@@ -2,5 +2,5 @@
     <string name="app_name">SToast</string>
 
     <string name="button_text">Login</string>
-    <string name="stoast_text">Your message</string>
+    <string name="stoast_text">This is your Toast</string>
 </resources>
